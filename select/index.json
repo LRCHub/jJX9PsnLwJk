@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "夜空",
+  "base_artist": "Minori Suzuki",
+  "createdAt": "2025-12-17T09:27:39.360963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa feat. Hazzie",
+      "has_synced": true,
+      "path": "select/01_夜空。_miwa_feat._Hazzie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa, Hazzie",
+      "has_synced": true,
+      "path": "select/02_夜空。_miwa,_Hazzie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "MIWA",
+      "has_synced": true,
+      "path": "select/03_夜空。_MIWA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/04_夜空。_miwa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa/Hazzie",
+      "has_synced": true,
+      "path": "select/05_夜空。_miwa_Hazzie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/06_夜空。_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa feat. ハジ→",
+      "has_synced": true,
+      "path": "select/07_夜空。_miwa_feat._ハジ→.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/08_夜空。_miwa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Step ～ツバサ & 夜空 & 真昼 ver.～",
+      "artist": "ななせ・みほ・かな from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/09_One_Step_~ツバサ_&_夜空_&_真昼_ver.~_ななせ・みほ・かな_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "五木ひろし",
+      "has_synced": false,
+      "path": "select/10_夜空_五木ひろし.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "凤飞飞",
+      "has_synced": true,
+      "path": "select/11_夜空_凤飞飞.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "Hiroshi Itsuki",
+      "has_synced": false,
+      "path": "select/12_夜空_Hiroshi_Itsuki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "葉璦菱",
+      "has_synced": true,
+      "path": "select/13_夜空_葉璦菱.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "鳳飛飛",
+      "has_synced": true,
+      "path": "select/14_夜空_鳳飛飛.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "费玉清",
+      "has_synced": true,
+      "path": "select/15_夜空_费玉清.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夜空",
+      "artist": "李紫婷",
+      "has_synced": true,
+      "path": "select/16_夜空_李紫婷.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夜空。",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/17_夜空。_miwa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜空",
+      "artist": "鈴木みのり",
+      "has_synced": false,
+      "path": "select/pl_01_夜空_鈴木みのり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夜空",
+      "artist": "鈴木みのり",
+      "has_synced": false,
+      "path": "select/pl_02_夜空_鈴木みのり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夜空",
+      "artist": "鈴木みのり",
+      "has_synced": false,
+      "path": "select/pl_03_夜空_鈴木みのり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夜空",
+      "artist": "鈴木みのり",
+      "has_synced": false,
+      "path": "select/pl_04_夜空_鈴木みのり.txt"
+    }
+  ]
+}
